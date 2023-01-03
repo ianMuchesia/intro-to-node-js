@@ -8,7 +8,9 @@ console.log(superHero.getName());
 
 const newSuperHero = require("./superHero")
 console.log(newSuperHero.getName()); */
-
+/* 
 const {add, sub}= require("./math")
 
-console.log(add(5,6));
+console.log(add(5,6)); */
+const data = require("./data.json");
+console.log("hello world")
